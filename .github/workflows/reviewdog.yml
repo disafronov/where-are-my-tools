@@ -13,4 +13,4 @@ jobs:
           reporter: github-pr-review
           fail_on_error: true
           path: "."
-          pattern: "*"
+          pattern: "where-are-my-tools"
